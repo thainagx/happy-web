@@ -2,7 +2,7 @@
 
 Aplicação web desenvolvida na Next Level Week #3, ministrada pela @Rocketseat.
 
-![Capa da aplicação](https://github.com/thaina-gomes/happy-web/img-readme/capa-aplication.png)
+![Capa da aplicação](https://github.com/thaina-gomes/happy-web/img-readme/capa-aplication.PNG)
 
 ## Objetivos 
 A aplicação Happy é uma aplicação web que visa uma maior conexão entre visitantes e crianças em orfanatos, por ser uma aplicação customizada, a presente aplicação é voltada para orfanatos e pessoas nas redondezas de Aracruz - ES, Brasil. 
