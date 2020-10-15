@@ -9,7 +9,7 @@ Happy é uma aplicação web que visa uma maior conexão entre visitantes e cria
 
 ## Imagens da aplicação 📸
 
-<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/landing-page.PNG" alt="Landing Page" width="450px"> <img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/orphanages-map.PNG" alt="Orphanages Map Image" width="450px">
+<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/landing-page.PNG" alt="Landing Page" width="440px"> <img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/orphanages-map.PNG" alt="Orphanages Map Image" width="440px">
 
 ## Conceitos de back-end, front-end e API ⚙️
 
@@ -55,7 +55,14 @@ Primeiros passos:
 - **typeorm:** TypeORM é um framework de ORM para projetos em Typescript. ORM é a sigla para mapeamento objeto relacional. Através dessa técnica, criamos uma abstração entre as classes do projeto e as tabelas do banco de dados. 
 - **SQlite:**  é uma biblioteca em linguagem C que implementa um banco de dados SQL embutido.
 >  npm install typeorm sqlite3
-<br>
-
+- **multer**: biblioteca utilizada para lidar com upload de imagens.
+> npm install multer
+- **express-async-errors**:  biblioteca utilizada para tratamento de erros no servidor.
+> npm install express-async-errors
+- **yup**:  biblioteca utilizada para realizar a validação dos dados.
+> npm install yup
+- **cors**:  biblioteca utilizada para habilitar o acesso de diferentes domínios na nossa aplicação.
+> npm install cors
 #### Aplicações 📥
-- Insomnia (64bits) ou Postman (32bits): utilizados para testes do API
+- Insomnia (64bits) ou Postman (32bits): É um API desktop para Rest e GraphQL, onde podemos testar nossas requisições.
+- Beekeeper Studio: O Beekeeper Studio é um editor de SQL de plataforma cruzada e aplicativo de gerenciamento de banco de dados de código aberto que é poderoso e fácil de usar.
