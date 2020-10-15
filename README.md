@@ -9,7 +9,7 @@ Happy é uma aplicação web que visa uma maior conexão entre visitantes e cria
 
 ## Imagens da aplicação 📸
 
-<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/landing-page.PNG" alt="Landing Page" width="400px"> <img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/orphanages-map.PNG" alt="Orphanages Map Image" width="400px">
+<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/landing-page.PNG" alt="Landing Page" width="420px"> <img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/orphanages-map.PNG" alt="Orphanages Map Image" width="420px">
 
 ## Conceitos de back-end, front-end e API ⚙️
 
