@@ -1,7 +1,7 @@
 # Happy 😀👫❤️
 
 Aplicação web desenvolvida na Next Level Week #3, ministrada pela [@Rocketseat](https://github.com/rocketseat).
-<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/capa-aplication.PNG" align="center" alt="Capa da aplicação">
+<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/capa-aplication.PNG" alt="Happy" width="450px">
 
 ## Objetivo 📑
 
@@ -9,9 +9,7 @@ Happy é uma aplicação web que visa uma maior conexão entre visitantes e cria
 
 ## Imagens da aplicação 📸
 
-![Landing Page Image](https://github.com/thaina-gomes/happy-web/blob/main/img-readme/landing-page.PNG)
-
-![Orphanages Map Image](https://github.com/thaina-gomes/happy-web/blob/main/img-readme/orphanages-map.PNG)
+<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/landing-page.PNG" alt="Landing Page" width="450px"> <img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/orphanages-map.PNG" alt="Orphanages Map Image" width="450px">
 
 ## Conceitos de back-end, front-end e API ⚙️
 
@@ -22,17 +20,8 @@ O *React* é a biblioteca mais popular do JavaScript e é usada para construir u
 
 API RESTful é uma interface que fornece dados em um formato padronizado baseado em requisições HTTP.
 As APIs Restful aumentam a performance para situações de concorrência, ou seja, quando muitas pessoas estão pedindo a mesma coisa ao mesmo tempo. Elas utilizam verbos para definir qual é a finalidade da requisição que está sendo enviada.
- 
- <br>
 
-```
-mermaid
-graph TD
-A[App Front-end - HTML, CSS, JS] -- Requisição/ orfanatos --> B[Server Back-end - Banco de dados, e-mail, autenticação]
-B -- Lista de orfanatos em JSON --> A
-C[Browser - Cliente]
-```
-
+<img src="https://phppot.com/wp-content/uploads/2015/10/restful-web-services-api-architecture.jpg" alt="Diagrama - Happy" width="450px">
 
 **Diagrama de como será a comunicação entre o servidor, o front-end e o browser na aplicação**
 
