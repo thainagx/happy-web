@@ -9,7 +9,7 @@ Happy é uma aplicação web que visa uma maior conexão entre visitantes e cria
 
 ## Imagens da aplicação 📸
 
-<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/happy-imagens.PNG" alt="Imagens Happy">
+<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/happy-imagens.png" alt="Imagens Happy">
 
 ## Conceitos de back-end, front-end e API ⚙️
 
@@ -21,7 +21,7 @@ O *React* é a biblioteca mais popular do JavaScript e é usada para construir u
 API RESTful é uma interface que fornece dados em um formato padronizado baseado em requisições HTTP.
 As APIs Restful aumentam a performance para situações de concorrência, ou seja, quando muitas pessoas estão pedindo a mesma coisa ao mesmo tempo. Elas utilizam verbos para definir qual é a finalidade da requisição que está sendo enviada.
 
-<img src="https://phppot.com/wp-content/uploads/2015/10/restful-web-services-api-architecture.jpg" alt="Diagrama - Happy" width="450px">
+<img src="https://phppot.com/wp-content/uploads/2015/10/restful-web-services-api-architecture.jpg" alt="Diagrama - Happy" width="500px">
 
 **Diagrama de como será a comunicação entre o servidor, o front-end e o browser na aplicação**
 
