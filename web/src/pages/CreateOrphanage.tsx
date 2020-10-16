@@ -49,7 +49,7 @@ export default function CreateOrphanage() {
 
     await api.post('orphanages', data);
     alert('Cadastro realizado com sucesso!');
-    history.push('/orphanages-map')
+    history.push('/orphanages/map')
 
   }
 
@@ -76,9 +76,9 @@ export default function CreateOrphanage() {
             <legend>Dados</legend>
 
             <Map 
-              center={[-27.2092052,-49.6401092]} 
+              center={[-20.0839299, -41.0359352]}
+              zoom={8} 
               style={{ width: '100%', height: 280 }}
-              zoom={15}
               onclick={handleMapClick}
             >
               <TileLayer 
@@ -160,5 +160,3 @@ export default function CreateOrphanage() {
     </div>
   );
 }
-
-// return `https://a.tile.openstreetmap.org/${z}/${x}/${y}.png`;

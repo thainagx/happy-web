@@ -1,7 +1,7 @@
 # Happy 😀👫❤️
 
 Aplicação web desenvolvida na Next Level Week #3, ministrada pela [@Rocketseat](https://github.com/rocketseat).
-<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/capa-aplication.PNG" alt="Happy" width="450px">
+<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/happy-capa.PNG" alt="Happy">
 
 ## Objetivo 📑
 
@@ -9,7 +9,7 @@ Happy é uma aplicação web que visa uma maior conexão entre visitantes e cria
 
 ## Imagens da aplicação 📸
 
-<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/landing-page.PNG" alt="Landing Page" width="440px"> <img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/orphanages-map.PNG" alt="Orphanages Map Image" width="440px">
+<img src="https://github.com/thaina-gomes/happy-web/blob/main/img-readme/happy-imagens.PNG" alt="Imagens Happy">
 
 ## Conceitos de back-end, front-end e API ⚙️
 
@@ -63,6 +63,9 @@ Primeiros passos:
 > npm install yup
 - **cors**:  biblioteca utilizada para habilitar o acesso de diferentes domínios na nossa aplicação.
 > npm install cors
+- **axios**:  biblioteca utilizada para auxiliar na comunicação entre o front-end e o back-end da nossa aplicação.
+> npm install axios
 #### Aplicações 📥
 - Insomnia (64bits) ou Postman (32bits): É um API desktop para Rest e GraphQL, onde podemos testar nossas requisições.
 - Beekeeper Studio: O Beekeeper Studio é um editor de SQL de plataforma cruzada e aplicativo de gerenciamento de banco de dados de código aberto que é poderoso e fácil de usar.
+- Mapbox: O Mapbox é um conjunto de ferramentas opensource para a criação de mapas em sites e aplicativos.

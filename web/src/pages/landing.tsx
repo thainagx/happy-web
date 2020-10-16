@@ -18,11 +18,11 @@ function Landing() {
                 </main>
 
                 <div className="location">
-                <strong>Aracruz</strong>
-                <span>Espírito Santo</span>
+                <strong>Espírito Santo</strong>
+                <span>Brasil</span>
                 </div>
 
-                <Link to="/orphanages-map" className="enter-app">
+                <Link to="/orphanages/map" className="enter-app">
                     <FiArrowRight size={26} color="rgba(0, 0, 0, 0.6)" />
                 </Link>
             </div>
