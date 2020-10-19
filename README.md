@@ -5,7 +5,7 @@ Aplicação web desenvolvida na Next Level Week #3, ministrada pela [@Rocketseat
 
 ## Objetivo 📑
 
-Happy é uma aplicação web que visa uma maior conexão entre visitantes e crianças em orfanatos, por ser uma aplicação customizada, a presente aplicação é voltada para orfanatos e pessoas nas redondezas de Aracruz - ES, Brasil.
+Happy é uma aplicação web que visa uma maior conexão entre visitantes e crianças em orfanatos, por ser uma aplicação customizada, a presente aplicação é voltada para orfanatos e pessoas no estado do Espírito Santo, Brasil.
 
 ## Imagens da aplicação 📸
 
